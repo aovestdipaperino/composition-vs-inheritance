@@ -96,6 +96,7 @@ Any entity can have any combination of components. No rigid hierarchy required.
 - [Rust Book - Traits](https://doc.rust-lang.org/book/ch10-02-traits.html)
 - [Rust by Example - Traits](https://doc.rust-lang.org/rust-by-example/trait.html)
 - [Composition over Inheritance](https://en.wikipedia.org/wiki/Composition_over_inheritance)
+- [Related article on Medium](https://medium.com/rustaceans/composition-over-inheritance-93300c33918a)
 
 ## License
 
