@@ -1,5 +1,7 @@
 # Composition vs Inheritance
 
+[![GitHub stars](https://img.shields.io/github/stars/aovestdipaperino/composition-vs-inheritance?logo=github&color=brightgreen)](https://github.com/aovestdipaperino/composition-vs-inheritance/stargazers)
+
 A Rust educational project demonstrating how composition with traits differs from traditional OOP inheritance patterns.
 
 ## Overview
